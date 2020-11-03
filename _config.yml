@@ -8,6 +8,9 @@ title: Masters Student at IIT Kanpur
 email: kansara@iitk.ac.in
 phone: (+91) 772-780-9811
 
+# Dark Mode (true/false/never)
+darkmode: true
+
 # Social links
 github_username:  anuraagkansara
 # dribbble_username: jekyll
