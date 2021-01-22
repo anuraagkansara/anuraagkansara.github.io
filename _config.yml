@@ -42,9 +42,9 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in ...... some of my other interests and hobbies are:
    - Photography
-   - Cricket
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#   - Cricket
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
